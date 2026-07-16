@@ -94,20 +94,26 @@ The trained fine-tuned model is saved as `model1.h5` for later use.
 ## Results
 
 ### Training Curves
-<img width="556" height="435" alt="Training Accuracy vs Validation Accuracy" src="https://github.com/user-attachments/assets/1a22cfab-5b13-42c4-893e-f22cfd3b7b9e" />
-<img width="547" height="435" alt="Training Loss vs Validation Loss" src="https://github.com/user-attachments/assets/50e5a8ad-979e-4ca0-974a-f5d603ee3605" />
+
+<img width="556" height="435" alt="Training Accuracy vs Validation Accuracy" src="https://github.com/user-attachments/assets/505a73fd-6506-4cc3-bfaf-28459129e8c2" />
+
+<img width="547" height="435" alt="Training Loss vs Validation Loss" src="https://github.com/user-attachments/assets/1379baa5-c7a4-43f6-b727-aa32574bf2bf" />
 
 ### Confusion Matrix
-<img width="649" height="547" alt="Confusion Matrix" src="https://github.com/user-attachments/assets/081cb5eb-75ec-44ea-b8f1-1da8ac3369aa" />
+
+<img width="649" height="547" alt="Confusion Matrix" src="https://github.com/user-attachments/assets/04dc9623-3f14-416e-bc06-6cb617b556e9" />
 
 ### Classification Report
-<img width="655" height="342" alt="Classification Report" src="https://github.com/user-attachments/assets/e42e92cf-3401-4dab-ab56-0feb1cbd7a50" />
+
+<img width="510" height="212" alt="Classification Report" src="https://github.com/user-attachments/assets/0496d0f2-6c21-4e02-afc1-a9eb06547b79" />
 
 ### ROC Curves
-<img width="691" height="547" alt="ROC Curve" src="https://github.com/user-attachments/assets/eef97162-ec52-4385-a440-e102c1ba08fb" />
+
+<img width="691" height="547" alt="ROC Curve" src="https://github.com/user-attachments/assets/f73ec966-bbad-4025-83c2-4de93b1f8bbd" />
 
 ### Sample Predictions
-<img width="1732" height="1190" alt="Predictions" src="https://github.com/user-attachments/assets/004829fd-86f9-4503-bd6d-ea6458f7bbd4" />
+
+<img width="1670" height="1190" alt="Predictions" src="https://github.com/user-attachments/assets/9eb1e3ee-6947-40a8-bc7c-02b5f7eef931" />
 
 ## Project Output
 
